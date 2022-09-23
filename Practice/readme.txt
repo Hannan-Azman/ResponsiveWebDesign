@@ -1,0 +1,1 @@
+practice exercises before attempting projects with more polish
